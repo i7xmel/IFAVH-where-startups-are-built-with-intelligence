@@ -4,7 +4,7 @@ A full-stack startup ecosystem platform for **Founders, Investors & Developers**
 
 ---
 
-## 📸 Screenshots
+# 📸 Screenshots
 
 
 > Log in / Register
@@ -24,7 +24,7 @@ A full-stack startup ecosystem platform for **Founders, Investors & Developers**
 > 
 <img width="1898" height="715" alt="Image" src="https://github.com/user-attachments/assets/c8d8f57a-fae0-497c-8b77-779cfc3a76e9" />
 
-# Smart AI Evaluation 
+### Smart AI Evaluation 
 
 <img width="1577" height="772" alt="Image" src="https://github.com/user-attachments/assets/05a2ecc5-283e-4130-b98c-3ea46109a011" />
 
