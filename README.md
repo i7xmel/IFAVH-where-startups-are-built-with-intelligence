@@ -6,7 +6,9 @@ A full-stack startup ecosystem platform for **Founders, Investors & Developers**
 
 ## 📸 Screenshots
 
-> Dashboard
+
+> Dashboard 
+
 <!-- Add screenshot here -->
 
 > Startups Registry
@@ -68,14 +70,14 @@ One click on any startup profile gives instant AI evaluation
 
 ## 📦 Full Features
 
-- 🔐 JWT Authentication — Register and Login with role selection
-- 🚀 Startup CRUD — Create, Read, Update, Delete startup profiles
-- 🧠 AI Pitch Deck Analyzer — Upload PDF and get full AI report
-- ⭐ AI Startup Evaluator — One click scoring for any startup
-- 📅 Events — Create, register, and manage ecosystem events
-- 👥 Founder Networking — Browse profiles and send connect requests
-- 📊 Dashboard — Live stats and charts by industry and stage
-- 🔍 Search and Filter — Filter by industry, stage, and keyword
+-  JWT Authentication — Register and Login with role selection
+-  Startup CRUD — Create, Read, Update, Delete startup profiles
+-  AI Pitch Deck Analyzer — Upload PDF and get full AI report
+-  AI Startup Evaluator — One click scoring for any startup
+-  Events — Create, register, and manage ecosystem events
+-  Founder Networking — Browse profiles and send connect requests
+-  Dashboard — Live stats and charts by industry and stage
+-  Search and Filter — Filter by industry, stage, and keyword
 
 ---
 
@@ -256,4 +258,4 @@ Beautiful UI renders the full report
 
 ---
 
-*Built as an MVP demonstrating AI integration, full-stack architecture, database design, and product thinking for a startup ecosystem platform.*
+*Built by ismaeeel.basheer@gmail.com as an MVP demonstrating AI integration, full-stack architecture, database design, and product thinking for a startup ecosystem platform.*
