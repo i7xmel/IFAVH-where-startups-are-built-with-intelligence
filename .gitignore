@@ -1,0 +1,11 @@
+﻿node_modules/
+*/node_modules/
+.env
+*/.env
+backend/uploads/*
+!backend/uploads/.gitkeep
+dist/
+build/
+.DS_Store
+Thumbs.db
+*.log
