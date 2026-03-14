@@ -9,8 +9,8 @@ A full-stack startup ecosystem platform for **Founders, Investors & Developers**
 
 ## Log in / Register
   
-<img width="723" height="730" alt="Image" src="https://github.com/user-attachments/assets/71a631d2-3fba-478d-a7d9-fa0657efe2f5" />
-<img width="679" height="600" alt="Image" src="https://github.com/user-attachments/assets/3cb67f0e-314f-407b-b9ab-ca62608f406a" />
+<img width="323" height="330" alt="Image" src="https://github.com/user-attachments/assets/71a631d2-3fba-478d-a7d9-fa0657efe2f5" />
+<img width="279" height="200" alt="Image" src="https://github.com/user-attachments/assets/3cb67f0e-314f-407b-b9ab-ca62608f406a" />
 
 ## Dashboard 
 
