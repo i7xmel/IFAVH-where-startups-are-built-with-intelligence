@@ -1,4 +1,4 @@
-# IFAV Platform — Where Startups Are Built With Intelligence 🚀
+# IFAV Platform — Where Startups Are Built With Intelligence 
 
 A full-stack startup ecosystem platform for **Founders, Investors & Developers** — combining startup management, AI-powered pitch analysis, events, and founder networking in one place.
 
