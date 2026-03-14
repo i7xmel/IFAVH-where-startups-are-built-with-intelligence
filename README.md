@@ -8,17 +8,35 @@ A full-stack startup ecosystem platform for **Founders, Investors & Developers**
 
 
 > Dashboard 
+<img width="723" height="730" alt="Image" src="https://github.com/user-attachments/assets/71a631d2-3fba-478d-a7d9-fa0657efe2f5" />
+<img width="679" height="600" alt="Image" src="https://github.com/user-attachments/assets/3cb67f0e-314f-407b-b9ab-ca62608f406a" />
+<img width="1891" height="897" alt="Image" src="https://github.com/user-attachments/assets/c292d261-0686-4cd7-bbe5-bc57df61d905" />
+<img width="1913" height="905" alt="Image" src="https://github.com/user-attachments/assets/651c3fe3-d416-4aae-83e9-2e00aaba4ec3" />
+
 
 
 
 > Startups Registry
-<!-- Add screenshot here -->
+<img width="1898" height="715" alt="Image" src="https://github.com/user-attachments/assets/c8d8f57a-fae0-497c-8b77-779cfc3a76e9" />
+
+Smart AI Evaluation 
+
+<img width="1577" height="772" alt="Image" src="https://github.com/user-attachments/assets/05a2ecc5-283e-4130-b98c-3ea46109a011" />
+
 
 > AI Pitch Analyzer
-<!-- Add screenshot here -->
+
+<img width="1328" height="500" alt="Image" src="https://github.com/user-attachments/assets/c360eb56-69cc-4efd-bc4f-0d405c754bf1" />
+<img width="1240" height="883" alt="Image" src="https://github.com/user-attachments/assets/e107e9e5-89b4-4c00-b0d4-62e0e70f29fd" />
+<img width="1196" height="817" alt="Image" src="https://github.com/user-attachments/assets/4fe59373-8256-461e-9cc5-afacf913df53" />
+
+> Events and Meetsups
+
+<img width="1583" height="552" alt="Image" src="https://github.com/user-attachments/assets/a9b88869-01d6-4696-b711-13f2145c521f" />
+
 
 > Founder Network
-<!-- Add screenshot here -->
+<img width="1148" height="555" alt="Image" src="https://github.com/user-attachments/assets/2404d653-5f23-42ed-9a0b-cfa64e75f64d" />
 
 ---
 
