@@ -9,7 +9,7 @@ A full-stack startup ecosystem platform for **Founders, Investors & Developers**
 
 > Dashboard 
 
-<!-- Add screenshot here -->
+
 
 > Startups Registry
 <!-- Add screenshot here -->
