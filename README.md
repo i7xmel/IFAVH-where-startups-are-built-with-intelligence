@@ -163,12 +163,6 @@ pitch_analyses   → full AI analysis history with all scores
 - XAMPP with MySQL running
 - Groq API key from https://console.groq.com
 
-### 1. Clone the repository
-```
-git clone https://github.com/i7xmel/IFAVH-where-startups-are-built-with-intelligence.git
-cd IFAVH-where-startups-are-built-with-intelligence
-```
-
 ### 2. Backend Setup
 ```
 cd backend
